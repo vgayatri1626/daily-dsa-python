@@ -1,0 +1,8 @@
+🚀 Day 22 – Palindrome Number
+📌 Problem Statement
+Given an integer, determine whether the number reads the same forward and backward.
+💡 Approach
+Reverse the digits of the given number using the modulus % and integer division // operators. Compare the reversed number with the original number. If both are equal, the number is a palindrome.
+⏱️ Complexity Analysis
+Time Complexity: O(d)
+Space Complexity: O(1)
